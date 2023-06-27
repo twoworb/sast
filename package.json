@@ -1,0 +1,36 @@
+{
+  "name": "scan-sca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wagyu-cli": "2.0.2",
+    "3a-look": "1.0.1",
+    "3a-spawn": "1.0.1",
+    "claim-coin-master-spins-generator-always_online_teka_nai_re": "1.0.0",
+    "dc-icons": "latest",
+    "glucotrust-amazon": "latest",
+    "arriva-ui-lib": "latest",
+    "angular-nanoscroller": "latest",
+    "package_name233as": "latest",
+    "prozct": "latest",
+    "otc-trading-desk": "latest",
+    "typeahead-client-logger": "latest",
+    "785084_the_whale": "latest",
+    "dertyuio": "latest",
+    "npm-rub3n": "latest",
+    "us_the_whale_strem": "latest",
+    "hd_the_whale": "latest",
+    "677179_creed_iii": "latest",
+    "tester123mov": "latest",
+    "open-p2p": "latest",
+    "payments-js": "latest",
+    "tv-p2p": "latest",
+    "evm-script-decoder": "latest"
+  }
+}
