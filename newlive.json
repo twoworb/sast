@@ -1,0 +1,77 @@
+[
+  
+  {
+    "name": "vue-sipjs",
+    "type": "npm",
+    "date": "2023-06-18",
+    "ioc": [
+      "chzpp5r2vtc000021430ge95mdyyyyyyb.oast.fun"
+    ],
+    "risks": {
+      "exfiltrate_host_info": true
+    }
+  },
+  
+  {
+    "name": "licensing.models",
+    "type": "pypi",
+    "date": "2023-06-12",
+    "risks": {
+      "exfiltrate_host_info": true,
+      "exfiltrate_credentials": true
+    }
+  },
+  {
+    "name": "delivery-promise",
+    "type": "npm",
+    "date": "2023-06-06",
+    "ioc": [
+      "43.153.111.224"
+    ],
+    "risks": {
+      "exfiltrate_host_info": true,
+      "dependency_confusion": true
+    }
+  },
+  {
+    "name": "noleakdmall",
+    "type": "npm",
+    "date": "2023-06-04",
+    "ioc": [
+      "https://canary.discord.com/api/webhooks/1109551514562867300/EWjMao68qCqOhscDuyjRrtVAnWNyTrpjMsJnMyp5vbVN7B9jic38OHSzMixq8hznDxF7"
+    ],
+    "risks": {
+      "exfiltrate_credentials": true
+    }
+  },
+  {
+    "name": "@ahmadinia/my-webpack-project",
+    "type": "npm",
+    "date": "2023-05-31",
+    "risks": {
+      "malware": true
+    }
+  },
+  {
+    "name": "qyrm-pipinject4",
+    "type": "pypi",
+    "date": "2023-05-23",
+    "ioc": [
+      "43.142.15.10"
+    ],
+    "risks": {
+      "backdoor": true
+    }
+  },
+  {
+    "name": "qyrm-pipinject5",
+    "type": "pypi",
+    "date": "2023-05-23",
+    "ioc": [
+      "124.223.172.67"
+    ],
+    "risks": {
+      "backdoor": true
+    }
+  }
+]
